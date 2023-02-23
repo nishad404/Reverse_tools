@@ -1,0 +1,8 @@
+problem:https://play.picoctf.org/practice/challenge/266?category=3&page=1
+problem name:file-run1
+
+
+change permision
+>>>>>>>>chmod +x run
+>>>>>>>>./run
+>>>>>>>>picoCTF{U51N6_Y0Ur_F1r57_F113_e5559d46}    
