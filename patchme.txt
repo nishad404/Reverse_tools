@@ -1,0 +1,8 @@
+link:https://play.picoctf.org/practice/challenge/287?category=3&page=2
+problem:patchme.py
+>>>>there two file 
+>>>>python3 patchme.flag.py
+>>>>password=(ak98-=90adfjhgj321sleuth9000)
+>>>>picoCTF{p47ch1ng_l1f3_h4ck_f01eabfa}
+
+
